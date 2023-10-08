@@ -1,0 +1,2 @@
+# Freelance-ElcieFashion_Loyalty_and_Rewards
+Freelance project repository
